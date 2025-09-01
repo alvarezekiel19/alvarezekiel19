@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="./assets/x4p8v3r0.png"/>
-</p>
+<h1 align="center">Hi 👋, I'm Ezekiel John</h1>
+- 📫 How to reach me **ezekielalvar@gmail.com / alvarezekiel19@gmail.com**
 
 <p align="center">
     <a href="https://git.io/typing-svg">
