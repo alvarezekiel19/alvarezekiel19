@@ -1,5 +1,5 @@
 <p align="center">
-    ![name-banner](/assets/x4p8v3r0.png)
+    <img src="./assets/x4p8v3r0.png"/>
 </p>
 
 <p align="center">
