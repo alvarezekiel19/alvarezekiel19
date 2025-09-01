@@ -1,6 +1,6 @@
-<h1 align="center" style="color:#FFD670;">Hi 👋  I'm Ezekiel John</h1>
+<h2 align="center" style="color:#FFD670;">Hi 👋  I'm Ezekiel John</h2>
 
-- 📫 How to reach me **ezekielalvar@gmail.com / alvarezekiel19@gmail.com**
+- 📫 How to reach me **ezekielalvar@gmail.com**
 
 <p align="center">
     <a href="https://git.io/typing-svg">
