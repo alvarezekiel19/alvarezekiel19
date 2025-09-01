@@ -1,7 +1,7 @@
 <div id="user-content-toc">
-    <ul align="center" style="list-style: none;">
+    <ul align="center" style="list-style: none; color: #FFD670;">
         <summary>
-            <h1 style="color: #FFD670;">Hi 👋 I'm Ezekiel John</h1>
+            <h1>Hi 👋 I'm Ezekiel John</h1>
         </summary>
     </ul>
 </div>
