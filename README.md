@@ -1,4 +1,6 @@
-# Ezekiel John
+<p style="font-size: 42px;">
+    Ezekiel John
+</p>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
