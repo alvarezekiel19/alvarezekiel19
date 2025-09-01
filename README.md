@@ -13,11 +13,9 @@
             alt="Typing SVG" />
     </a>
 </p>
-
-| ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&stroke=%23BB432C) | ![EJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarezekiel19) |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-
-<!--
+| ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&stroke=%23BB432C)                                                  | ![EJ's GitHub Stats]( https://github-readme-stats.vercel.app/api?username=alvarezekiel19&theme=one_dark_pro&show_icons=true )                         |
+|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezekiel19&theme=one_dark_pro&hide_progress=true) | [![EJ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/alvarezekiel19/github-readme-stats) |<!--
 **alvarezekiel19/alvarezekiel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
