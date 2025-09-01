@@ -1,6 +1,10 @@
-<h1 align="center" style="color:#FFD670; text-decoration:none;">Hi 👋  I'm Ezekiel John</h1>
-
-- 📫 How to reach me **ezekielalvar@gmail.com**
+<div id="user-content-toc">
+    <ul align="center" style="list-style: none;">
+        <summary>
+            <h1>Hi 👋 I'm Ezekiel John</h1>
+        </summary>
+    </ul>
+</div>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
