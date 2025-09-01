@@ -14,8 +14,10 @@
     </a>
 </p>
 
+| | |
 ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&stroke=%23BB432C)
-
+|---|---|
+| | |
 [![EJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarezekiel19)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
