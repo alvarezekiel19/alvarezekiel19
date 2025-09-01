@@ -1,6 +1,6 @@
 <div id="user-content-toc">
-    <ul align="center" style="list-style: none; color: #FFD670;">
-        <summary>
+    <ul align="center" style="list-style: none;">
+        <summary style="color: #FFD670;">
             <h1>Hi 👋 I'm Ezekiel John</h1>
         </summary>
     </ul>
