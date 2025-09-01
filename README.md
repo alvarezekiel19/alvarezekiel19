@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#FFD670;">Hi 👋, I'm Ezekiel John</h1>
+<h1 align="center" style="color:#FFD670;">Hi 👋  I'm Ezekiel John</h1>
 
 - 📫 How to reach me **ezekielalvar@gmail.com / alvarezekiel19@gmail.com**
 
