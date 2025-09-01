@@ -17,3 +17,7 @@
 |                         ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&stroke=%23BB432C)                          | ![EJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarezekiel19&theme=one_dark_pro&show_icons=true) |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezekiel19&theme=one_dark_pro&hide_progress=true) |            ![EJ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuckyPotato9912)             |
+
+---
+
+### UPDATE COMING
