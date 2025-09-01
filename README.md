@@ -1,6 +1,6 @@
-<h1 style="text-align:center;">
-    Ezekiel John
-</h1>
+<p align="center">
+    [name-banner](./assets/x4p8v3r0.png)
+</p>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
