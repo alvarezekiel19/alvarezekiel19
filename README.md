@@ -1,10 +1,10 @@
-<div id="user-content-toc">
-    <ul align="center" style="list-style: none;">
-        <summary style="color: #FFD670;">
-            <h1>Hi 👋 I'm Ezekiel John</h1>
-        </summary>
-    </ul>
-</div>
+[//]: <> (<div id="user-content-toc">)
+[//]: <>    (<ul align="center" style="list-style: none;">)
+[//]: <>        (<summary style="color: #FFD670;">)
+[//]: <>            (<h1>Hi 👋 I'm Ezekiel John</h1>)
+[//]: <>        (</summary>)
+[//]: <>    (</ul>)
+[//]: <> (</div>)
 
 ![Header](./assets/github-header-banner.png)
 
