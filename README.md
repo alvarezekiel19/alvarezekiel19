@@ -6,6 +6,8 @@
     </ul>
 </div>
 
+![Header](./assets/github-header-banner.png)
+
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img
