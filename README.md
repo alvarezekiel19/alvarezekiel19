@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,linux,git,github,neovim,vscode,figma,anaconda,md,notion,obsidian" />
+    <img src="https://skillicons.dev/icons?i=apple,linux,git,github,githubactions,docker,cmake,neovim,vscode,figma,anaconda,md,notion,obsidian" />
   </a>
 </p>
 
