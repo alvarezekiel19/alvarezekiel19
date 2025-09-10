@@ -29,11 +29,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,scss,tailwind,c,cpp,rust,lua,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,scss,react,nextjs,tailwind,c,cpp,rust,lua,py" />
   </a>
 </p>
 
+### What I Use
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,linux,git,github,neovim,vscode,figma,anaconda,md,notion" />
+  </a>
+</p>
+
+---
 
 | ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true)                             | ![EJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarezekiel19&theme=one_dark_pro&show_icons=true) |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
