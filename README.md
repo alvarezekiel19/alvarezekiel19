@@ -43,8 +43,8 @@
 
 ---
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezekiel19&theme=one_dark_pro) | ![EJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarezekiel19&theme=one_dark_pro&show_icons=true) |
-|:--------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
-|               ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true)               |      ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=alvarezekiel19&theme=tokyonight)      |
+| ![alvarezekiel19 streak](https://streak-stats.demolab.com?user=alvarezekiel19&theme=onedark&hide_border=true) | ![alvarezekiel19's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezekiel19&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+|:-------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|               ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true)              |                            ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=alvarezekiel19&theme=tokyonight)                           |
 
 ---
