@@ -25,7 +25,7 @@
 
 ---
 
-### ⚙ My Tech Stack
+### ⚙  My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### 🧰 What App & Tools I Use
+### 🧰  What App & Tools I Use
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-### 🔌 Socials
+### 🔌  Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ezekiel-john-alvar-306a09137/">
