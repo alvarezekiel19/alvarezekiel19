@@ -28,9 +28,9 @@
 ### ⚙ My Tech Stack
 
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?=i=html,css,js,ts,nodejs,tailwind,py,c,cpp,rust,lua"
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,scss,tailwind,c,cpp,rust,lua,py" />
+  </a>
 </p>
 
 
