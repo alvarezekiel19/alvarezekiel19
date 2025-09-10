@@ -37,7 +37,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,linux,git,github,neovim,vscode,figma,anaconda,md,notion" />
+    <img src="https://skillicons.dev/icons?i=apple,linux,git,github,neovim,vscode,figma,anaconda,md,notion,obsidian" />
+  </a>
+</p>
+
+### 🔌 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ezekiel-john-alvar-306a09137/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
