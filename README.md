@@ -20,7 +20,7 @@
 
 ## 👨🏻‍💻 More About Me
 
-<span style="font-size: 20px;">🎓 Computer Science student from the Philippines, focusing on **software engineering**.</span>
+<span style="font-size: 92px;">🎓 Computer Science student from the Philippines, focusing on **software engineering**.</span>
 
 ⚡ Passionate about **building practical applications** and **full-stack development**.
 
