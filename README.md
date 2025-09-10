@@ -19,7 +19,7 @@
 ### 👨🏻‍💻 More About Me
 
 🎓 Computer Science student from the Philippines, focusing on **software engineering**.  
-⚡ Passionate about **building practical applications**, **data visualization**, and **front-end development**.  
+⚡ Passionate about **building practical applications** and **full-stack development**.  
 🚗 Outside coding, I’m into **automotive engineering, motorsports, and photography**.  
 🐾 I love cats 🐱 and Otters 🦦
 
