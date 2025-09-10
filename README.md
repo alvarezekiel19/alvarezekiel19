@@ -43,8 +43,8 @@
 
 ---
 
-| ![alvarezekiel19 streak](https://streak-stats.demolab.com?user=alvarezekiel19&theme=onedark&hide_border=true) | ![alvarezekiel19's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezekiel19&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-|:-------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|               ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true)              |                            ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=alvarezekiel19&theme=tokyonight)                           |
+| ![alvarezekiel19's Stats](https://github-readme-stats.vercel.app/api?username=alvarezekiel19&theme=outrun&show_icons=true&hide_border=true&count_private=true) | ![alvarezekiel19's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezekiel19&theme=outrun&show_icons=true&hide_border=true&layout=compact) |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                       ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true)                                       |                               ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=alvarezekiel19&theme=tokyonight)                              |
 
 ---
