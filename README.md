@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### 🧰 What I App & Tools I Use
+### 🧰 What App & Tools I Use
 
 <p align="center">
   <a href="https://skillicons.dev">
