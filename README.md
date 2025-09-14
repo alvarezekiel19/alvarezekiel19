@@ -64,4 +64,7 @@
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                       ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true)                                       |                               ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=alvarezekiel19&theme=tokyonight)                              |
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
