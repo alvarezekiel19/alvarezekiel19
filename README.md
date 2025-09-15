@@ -1,19 +1,19 @@
 [//]: <> (<div id="user-content-toc">)
-[//]: <>    (<ul align="center" style="list-style: none;">)
-[//]: <>        (<summary style="color: #FFD670;">)
-[//]: <>            (<h1>Hi 👋 I'm Ezekiel John</h1>)
-[//]: <>        (</summary>)
-[//]: <>    (</ul>)
+[//]: <> (<ul align="center" style="list-style: none;">)
+[//]: <> (<summary style="color: #FFD670;">)
+[//]: <> (<h1>Hi 👋 I'm Ezekiel John</h1>)
+[//]: <> (</summary>)
+[//]: <> (</ul>)
 [//]: <> (</div>)
 
 ![Header](./assets/github-header-banner.png)
 
 [//]: <> (<p align="center">)
-[//]: <>    (<a href="https://git.io/typing-svg">)
-[//]: <>        (<img)
-[//]: <>            (src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=FFD670&repeat=false&width=920&height=72&lines=Computer+Science+Student+|+Software+Engineer+%7C+UI+Designer")
-[//]: <>            (alt="Typing SVG" />)
-[//]: <>    (</a>)
+[//]: <> (<a href="https://git.io/typing-svg">)
+[//]: <> (<img)
+[//]: <> (src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=FFD670&repeat=false&width=920&height=72&lines=Computer+Science+Student+|+Software+Engineer+%7C+UI+Designer")
+[//]: <> (alt="Typing SVG" />)
+[//]: <> (</a>)
 [//]: <> (</p>)
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-### ⚙  My Tech Stack
+### ⚙ My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-### 🧰  What App & Tools I Use
+### 🧰 What App & Tools I Use
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-### 🔌  Socials
+### 🔌 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ezekiel-john-alvar-306a09137/">
@@ -61,10 +61,12 @@
 ---
 
 | ![alvarezekiel19's Stats](https://github-readme-stats.vercel.app/api?username=alvarezekiel19&theme=outrun&show_icons=true&hide_border=true&count_private=true) | ![alvarezekiel19's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezekiel19&theme=outrun&show_icons=true&hide_border=true&layout=compact) |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                       ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true)                                       |                               ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=alvarezekiel19&theme=tokyonight)                              |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                       ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true)                                       |                              ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=alvarezekiel19&theme=tokyonight)                               |
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+>
+
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 
 ---
