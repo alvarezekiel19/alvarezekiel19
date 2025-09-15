@@ -49,11 +49,11 @@
 ### 🔌 Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezekiel-john-alvar-306a09137/" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/ezekiel-john-alvar-306a09137/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
     
-  <a href="https://www.instagram.com/zeee_991.2/" style="text-decoration:none">
+  <a href="https://www.instagram.com/zeee_991.2/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
