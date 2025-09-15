@@ -24,3 +24,5 @@ jobs:
           DEBUG_LOGGING: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_TIMEZONE: "False"
