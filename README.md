@@ -95,13 +95,13 @@ Sunday                   53 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
