@@ -95,13 +95,14 @@ Sunday                   53 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     0 secs              ████████████████████░░░░░   79.17 % 
+Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
