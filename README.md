@@ -70,6 +70,42 @@
 |                        ![Codewars](https://github.r2v.ch/codewars?user=alvarezekiel19&top_languages=true&theme=gradient_midnight_puple)                        |                              ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=alvarezekiel19&theme=tokyonight)                               |
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+🌆 Daytime                208 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+🌃 Evening                413 commits         ████████████░░░░░░░░░░░░░   46.30 % 
+🌙 Night                  128 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Tuesday                  151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Wednesday                194 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Thursday                 175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Friday                   129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Sunday                   53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JSON                     22 mins             ██████████████████░░░░░░░   72.69 % 
+Lua                      8 mins              ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+🔥 Editors: 
+Neovim                   31 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      31 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
