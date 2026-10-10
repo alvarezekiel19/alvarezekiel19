@@ -73,21 +73,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-🌆 Daytime                211 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌃 Evening                407 commits         ███████████░░░░░░░░░░░░░░   45.78 % 
-🌙 Night                  128 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+🌞 Morning                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+🌆 Daytime                211 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+🌃 Evening                408 commits         ███████████░░░░░░░░░░░░░░   45.84 % 
+🌙 Night                  128 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Tuesday                  151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Wednesday                189 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Thursday                 176 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Friday                   129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Monday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Tuesday                  151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Wednesday                189 commits         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Thursday                 176 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Friday                   130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 Saturday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 
 
@@ -95,13 +95,15 @@ Sunday                   52 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   39 mins             ███████████████████████░░   93.19 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Shell                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,11 +115,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C** 
 
 ```text
-C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
