@@ -95,15 +95,13 @@ Sunday                   52 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   47 mins             ████████████████████████░   94.30 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Shell                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   50 mins             █████████████████████████   100.00 % 
+Neovim                   8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
